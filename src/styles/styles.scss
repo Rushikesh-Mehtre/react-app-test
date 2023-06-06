@@ -1,0 +1,6 @@
+@import "./theme.scss";
+.App{
+    background-color: $Main-background-color;
+    padding: 2rem;
+    min-height: 100vh;
+}
